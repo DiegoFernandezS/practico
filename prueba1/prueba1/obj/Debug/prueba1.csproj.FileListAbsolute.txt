@@ -1,0 +1,8 @@
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\obj\Debug\prueba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\diego\OneDrive\Escritorio\nueva\prueba1\prueba1\obj\Debug\prueba1.pdb
